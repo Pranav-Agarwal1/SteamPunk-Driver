@@ -15,3 +15,7 @@ Logs/
 *.pidb
 *.booproj
 *.svd
+UserSettings/
+*.sln
+*.csproj
+*.slnx
